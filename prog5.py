@@ -7,4 +7,4 @@ print(apple)
 # Benefits of triple single or double code it can take multiline inputs
 print(name[0])
 for character in freind:
-    print(character)
+    print(character,end="")
